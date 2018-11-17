@@ -1,4 +1,15 @@
+This is simple react UI for comment box , here it uses's two factor for its appearance and data.  it has an added min.css extension in its index.html ( i.e  :<link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css'/>   )
+And it also depends on npm package faker for retriving fake data randomly .
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+
+
 
 ## Available Scripts
 
